@@ -2,7 +2,12 @@
 
 	int main() {
 			
-			printf("Second Program");
+			int s = 0;
+			int a = 10;
+			int b = 10;
+			
+			s = a + b;
+			printf("%d",s);
 			
 			return 0;
 	}
